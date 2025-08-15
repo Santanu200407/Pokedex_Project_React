@@ -7,5 +7,5 @@ export default function Pokedex(){
         <Search/>
         <PokemonList/>
         </div>
-    )
+    ) 
 }
